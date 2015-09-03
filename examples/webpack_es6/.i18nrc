@@ -1,0 +1,8 @@
+{
+  "directories": ["src"],
+  "plugins": [
+    "react-i18nliner",
+"../../../../i18nliner-jsx",
+    "../../../../i18nliner-babel"
+  ]
+}

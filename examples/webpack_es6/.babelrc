@@ -1,0 +1,12 @@
+{
+  "stage": 0,
+  "loose": [
+    "es6.modules",
+    "es6.classes",
+    "es7.classProperties"
+  ],
+  "ignore": [    
+    "node_modules/**/*.js"
+  ],
+  "optional": [ "es7.classProperties", "es7.exportExtensions" ]
+}
